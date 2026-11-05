@@ -1,4 +1,3 @@
-# Victory Glass Forecast Builder
 """
 Victory Glass
 Forecast Builder V17
