@@ -1,0 +1,18 @@
+{
+  "forecast_start_date": "2026-11-09",
+
+  "current_cash": 868549.16,
+
+  "monthly_payroll": 56447.14,
+  "monthly_rent": 5288.61,
+  "monthly_insurance": 3120.11,
+  "monthly_vehicle": 6978.46,
+
+  "current_pct": 0.75,
+  "pct_31_60": 0.50,
+  "pct_61_90": 0.25,
+  "pct_90_plus": 0.10,
+
+  "yellow_warning": 250000,
+  "red_warning": 100000
+}
